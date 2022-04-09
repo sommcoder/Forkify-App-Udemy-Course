@@ -1,4 +1,4 @@
-# forkify Project
+# forkify Project from Udemy Course
 
 Recipe application with custom recipe uploads.
 
